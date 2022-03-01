@@ -1,0 +1,17 @@
+{
+    "keywords":
+    [
+"army operation",
+"navy operation",
+"marine operation",
+"naval air force"
+    ],
+    "journals":
+    [
+        ""
+    ],
+    "fpath":
+        "test_googlecrawer",
+    "chromedriver_path":
+    ""
+}
